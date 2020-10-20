@@ -14,7 +14,7 @@ public class Main {
         items.add("apple");
         items.add("orange");
 
-       
+       for (items.get(0); )
 
     }
 }
